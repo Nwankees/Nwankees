@@ -1,7 +1,6 @@
 ## Hi there 👋
 - I'm currently learning more about python(Intermediate Stuffs)
-- Fun fact: Python is the best (no arguments 🤫🤫)
-- I'm currently learning from my school and also other websites like w3schools, codeacademy, etc.
+- I'm currently learning from my school, coding books and other websites like w3schools, codeacademy, etc.
 <!--
 **Nwankees/Nwankees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
