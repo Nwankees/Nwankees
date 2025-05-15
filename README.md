@@ -1,6 +1,10 @@
-## Hi there 👋
-- I'm currently learning more about python(Intermediate Stuffs)
-- I'm currently learning from my school, coding books and other websites like w3schools, codeacademy, etc.
+## 👋 Hi there, I’m Nwankees
+
+- 🎓 I'm a Computer Science student at Kennesaw State University (Class of 2028)
+- 💻 I'm currently focused on Python (intermediate stuff), Java, and basic C#
+- 🧠 Learning through coursework, books, and platforms like W3Schools, freeCodeCamp, and Codecademy
+- 🕹️ Recently built a Pygame runner-style game ("Goat Runner") and a Django-based library management site
+- 🌱 Starting to explore Machine Learning and JavaScript/React
 <!--
 **Nwankees/Nwankees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
