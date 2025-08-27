@@ -1,10 +1,10 @@
-## 👋 Hi there, I’m Nwankees
+## 👋 Hi there, I’m Emmanuel
 
 - 🎓 I'm a Computer Science student at Kennesaw State University (Class of 2028)
-- 💻 I'm currently focused on Python (intermediate stuff), Java, and basic C#
-- 🧠 Learning through coursework, books, and platforms like W3Schools, freeCodeCamp, and Codecademy
-- 🕹️ Recently built a Pygame runner-style game ("Goat Runner") and a Django-based library management site
-- 🌱 Starting to explore Machine Learning and JavaScript/React
+- 💻 I'm currently focused on Python, Java, and C++
+- 🧠 Learning through coursework, books, and platforms like W3Schools, Coursera, and Datacamp
+- 🕹️ Recently built a Pygame runner-style game ("Goat Runner"), a Django-based library management site and a Titanic Survival Prediction Model
+- 🌱 Starting to explore Machine & Deep Learning and JavaScript/React
 <!--
 **Nwankees/Nwankees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
