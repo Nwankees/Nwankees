@@ -1,9 +1,7 @@
 ## 👋 Hi there, I’m Emmanuel
 
-- 🎓 I'm a First-Year Computer Science student at Kennesaw State University (Class of 2028)
-- 💻 I'm currently focusing on Python, Java, and C++
-- 🧠 Learning through coursework, books, and platforms like W3Schools, Coursera, and Datacamp
-- 🌱 Starting to explore Machine & Deep Learning and JavaScript/React
+-  I'm a Computer Science student at Kennesaw State University
+-  I'm currently focusing on Python, C++, and Machine Learning
 <!--
 **Nwankees/Nwankees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
