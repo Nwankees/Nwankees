@@ -1,6 +1,7 @@
 ## 👋 Hi there, I’m Emmanuel
 
--  I'm a Computer Science student at Kennesaw State University (transferring to Georgia Institute of Technology by Summer 2026)
+-  I'm a Georgia Institute of Technology student
+-  I majore in Computer Science and minor in Mathematics
 -  I'm currently focusing on Python, C++, and Machine Learning
 <!--
 **Nwankees/Nwankees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
