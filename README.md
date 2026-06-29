@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Emmanuel
 
 -  I'm a Georgia Institute of Technology student
--  I majore in Computer Science and minor in Mathematics
+-  I major in Computer Science and minor in Mathematics
 -  I'm currently focusing on Python, C++, and Machine Learning
 <!--
 **Nwankees/Nwankees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
